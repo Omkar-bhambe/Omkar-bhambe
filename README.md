@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Omkar Bhambe</h1>
-<h3 align="center">🎯 Data Science Enthusiast | 📊 Data Analyst | 💡 Problem Solver</h3>
+<h3 align="center">🎯 Data Science Enthusiast | 📊 Data Analyst Practioner| 💡 Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omkar-bhambe&label=Profile%20Views&color=0e75b6&style=flat" alt="omkar-bhambe" />
